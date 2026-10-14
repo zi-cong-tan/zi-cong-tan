@@ -2,7 +2,7 @@
 
 MS Finance (Quantitative Finance with AI) student at the University at Buffalo, based in Buffalo, New York. I build tools that make finance easier to see and explain.
 
-- 📈 Member of a student-run investment fund, covering international equities
+- 📈 Member of the Terese Kelly Investment Group, covering international equities
 - 🛠️ Interested in valuation, quant research, and using AI to build better finance tools
 - 🥏 Off the screen: ultimate frisbee
 
