@@ -14,6 +14,9 @@ A discounted cash flow model you can actually read. A clean, interactive alterna
 ### [PokeRogue Field Guide](https://github.com/zi-cong-tan/PokeRogue-Classic-Guide) · [live](https://zi-cong-tan.github.io/PokeRogue-Classic-Guide/)
 200 waves to Eternatus, mapped out. An interactive guide to a PokeRogue Classic run in React: every fixed fight, the ten villain teams, a 10-point starter planner and a party build sheet, with every number read from the game's source code.
 
+### [PokeRogue Endless Guide](https://github.com/zi-cong-tan/PokeRogue-Endless-Guide) · [live](https://zi-cong-tan.github.io/PokeRogue-Endless-Guide/)
+Endless, to wave 5850. The PokeRogue community's 90-page Endless guide, by Monkee, Lululalu_a and top Endless players, rebuilt as a searchable site with a token calculator read from the game's source code.
+
 *More on the way.*
 
 ## Get in touch
