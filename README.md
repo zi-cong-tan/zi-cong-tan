@@ -11,7 +11,7 @@ MS Finance (Quantitative Finance with AI) student at the University at Buffalo, 
 ### [DCF Calculator](https://github.com/zi-cong-tan/DCF-Calculator-Aesthetic) · [live](https://zi-cong-tan.github.io/DCF-Calculator-Aesthetic/)
 A discounted cash flow model you can actually read. A clean, interactive alternative to Excel DCF templates: value per share up front, locked reported figures, editable judgment calls, a bear case and a sensitivity grid.
 
-### [PokeRogue Field Guide](https://github.com/zi-cong-tan/PokeRogue-Guide-Aesthetic) · [live](https://zi-cong-tan.github.io/PokeRogue-Guide-Aesthetic/)
+### [PokeRogue Field Guide](https://github.com/zi-cong-tan/PokeRogue-Classic-Guide) · [live](https://zi-cong-tan.github.io/PokeRogue-Classic-Guide/)
 200 waves to Eternatus, mapped out. An interactive guide to a PokeRogue Classic run in React: every fixed fight, the ten villain teams, a 10-point starter planner and a party build sheet, with every number read from the game's source code.
 
 *More on the way.*
